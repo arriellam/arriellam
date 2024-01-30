@@ -23,7 +23,7 @@ Here are a few projects that I have worked on:
 
 1. **Fluid Modeling:** Created a model simulation of intricate fluid flow structures using Python and numerical integration methods for data analysis.
 
-2. **Simple Game Development:** Developed interactive games (Minesweeper and Othello) using Java Swing
+2. **Simple Game Projects:** Developed interactive games (Minesweeper and Othello) using Java Swing
    
 3.  *Upcoming project....a Chrome Extension*
 
@@ -34,7 +34,7 @@ As an Undergraduate Teaching Assistant at the University of Pennsylvania,
 I lead weekly recitation sessions on Algorithms and Data Structures. My role involves demystifying complex concepts to enhance student comprehension
 and contribute to the success of students, by stimulating an intuitive way of thinking to solve problems involving Algorithms and Data Structures.
 
-But it doesn't stop there! My summer at the General Robotics, Automation, Sensing, and Perception Lab (Penn GRASP Lab),
+My summer at the General Robotics, Automation, Sensing, and Perception Lab (Penn GRASP Lab),
 I had a great opportunity to work with a wonderful team of Graduate Students and explores concepts involving mathematical modeling and fluid dynamics.
 
 ## 🌐 Connecting Beyond Code
