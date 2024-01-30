@@ -13,8 +13,8 @@ I'm Arriella Mafuta, a passionate individual with a love for code, technology, a
 
 I'm always looking to broaden my skills and always open to learning new technologies, but currently:
 
-- **Languages:** Python, JavaScript, Java, Ocaml
-- **Web Development:** HTML, CSS,
+- **Languages:** Python, Java, Ocaml
+- **Web Development (in progress):** HTML, CSS, Javascript
 - **Version Control:** Git, GitHub
 
 ## 🌟 Projects
