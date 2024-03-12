@@ -1,4 +1,4 @@
-# 👋 Hi there! Welcome to my GitHub!
+# 👋 Hello. Welcome to my GitHub
 
 I'm Arriella Mafuta, a passionate individual with a love for code, technology, and creativity. Here's a little about me:
 
