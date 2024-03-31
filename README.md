@@ -28,7 +28,7 @@ Here are a few projects that I have worked on:
 3.  *Upcoming project....a Chrome Extension*
 
 
-## 💼 Adventures in the Professional Realm
+## 💼 Professional Adventures
 
 As an Undergraduate Teaching Assistant at the University of Pennsylvania, 
 I lead weekly recitation sessions on Algorithms and Data Structures. My role involves demystifying complex concepts to enhance student comprehension
